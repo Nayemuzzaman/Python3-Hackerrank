@@ -1,12 +1,20 @@
-def output_value(size):
-    print(val)
-    if 90 <= val <= 65:
-        print("Alphabets")
+def minion_game(string):
+    length = len(s)
+    vow = 0
+    con = 0
+    for i in range(length):
+        if string[i] in 'AEIOU':
+            vow = vow + (length - i)
+
+        else:
+            con = con + (length- i)
+    if vow < con:
+        print("Stuart",con)
+    elif con < vow:
+        print("Kevin",vow)
+    else:
+        print("Draw")
 
 if __name__ == '__main__':
-    n = input()
-    val = int(ord(n))
-    if 90 <= int(val) <= 65:
-        print("Alphabets")
-    output_value(val)
-
+    s = input()
+    minion_game(s)
