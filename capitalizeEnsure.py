@@ -1,24 +1,14 @@
-#!/bin/python3
+def output_value(yu):
+    if (65 <= ord(n) <= 90 or 97 <= ord(n) <= 122):
+        print("Alphabets")
+    elif (48 <= ord(n) <= 97):
+        print("Digit")
+    else:
+        print("Special Characters")
 
-import math
-import os
-import random
-import re
-import sys
-
-# Complete the solve function below.
-def solve(s):
-    words = s.split(" ")
-    capital_word = [w.capitalize() for w in words]
-    return " ".join(capital_word)
 
 if __name__ == '__main__':
-    fptr = open(os.environ['OUTPUT_PATH'], 'w')
-    # fptr = sys.stdout
-    s = input()
+    n = input()
+    val = ord(n)
+    output_value(val)
 
-    result = solve(s)
-
-    fptr.write(result + '\n')
-
-    fptr.close()
