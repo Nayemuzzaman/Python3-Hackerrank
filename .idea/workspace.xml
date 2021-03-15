@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27687914-0a1a-4b6e-98e4-99f977f59d24" name="Default Changelist" comment="hackerrank itertools Permutations solution" />
+    <list default="true" id="27687914-0a1a-4b6e-98e4-99f977f59d24" name="Default Changelist" comment="hackerrank Print Function solution">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/randomPractice.py" beforeDir="false" afterPath="$PROJECT_DIR$/randomPractice.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.printFunction">
+  <component name="RunManager" selected="Python.randomPractice">
     <configuration name="collectionCounter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -253,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615458662959</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="hackerrank Print Function solution">
+      <created>1615672779811</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1615672779811</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -275,6 +285,7 @@
     <MESSAGE value="hackerrank DefaultDict Tutorial()" />
     <MESSAGE value="hackerrank collection counter solution()" />
     <MESSAGE value="hackerrank itertools Permutations solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="hackerrank itertools Permutations solution" />
+    <MESSAGE value="hackerrank Print Function solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="hackerrank Print Function solution" />
   </component>
 </project>
