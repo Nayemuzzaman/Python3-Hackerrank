@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27687914-0a1a-4b6e-98e4-99f977f59d24" name="Default Changelist" comment="hackerrank Find the Runner-Up Score solution">
-      <change afterPath="$PROJECT_DIR$/ArrayDs.py" afterDir="false" />
+    <list default="true" id="27687914-0a1a-4b6e-98e4-99f977f59d24" name="Default Changelist" comment="hackerrank Arrays - DS solution">
+      <change afterPath="$PROJECT_DIR$/DoubleLinkedBasic.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unique_words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/unique_words.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/randomPractice.py" beforeDir="false" afterPath="$PROJECT_DIR$/randomPractice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +34,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.ArrayDs">
+  <component name="RunManager" selected="Python.randomPractice">
     <configuration name="ArrayDs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -292,7 +292,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615982401350</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="hackerrank Arrays - DS solution">
+      <created>1615992505353</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1615992505353</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -316,6 +323,7 @@
     <MESSAGE value="hackerrank itertools Permutations solution" />
     <MESSAGE value="hackerrank Print Function solution" />
     <MESSAGE value="hackerrank Find the Runner-Up Score solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="hackerrank Find the Runner-Up Score solution" />
+    <MESSAGE value="hackerrank Arrays - DS solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="hackerrank Arrays - DS solution" />
   </component>
 </project>
