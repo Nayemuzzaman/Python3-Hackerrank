@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27687914-0a1a-4b6e-98e4-99f977f59d24" name="Default Changelist" comment="python hackerrank Reverse Word and Swap cases Solution">
+    <list default="true" id="27687914-0a1a-4b6e-98e4-99f977f59d24" name="Default Changelist" comment="python hackerrank Lists Solution">
+      <change afterPath="$PROJECT_DIR$/BuiltInDS.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/randomPractice.py" beforeDir="false" afterPath="$PROJECT_DIR$/randomPractice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +34,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.lists">
+  <component name="RunManager" selected="Python.randomPractice">
     <configuration name="AddSinglyLinklistBeforeGivenNumber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -332,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616572396912</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="python hackerrank Lists Solution">
+      <created>1616963008041</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1616963008041</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -362,6 +371,7 @@
     <MESSAGE value="Singly Linked List solution" />
     <MESSAGE value="Singly Linked List full solution" />
     <MESSAGE value="python hackerrank Reverse Word and Swap cases Solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="python hackerrank Reverse Word and Swap cases Solution" />
+    <MESSAGE value="python hackerrank Lists Solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="python hackerrank Lists Solution" />
   </component>
 </project>
